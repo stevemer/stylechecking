@@ -1,0 +1,6 @@
+/Users/stevemerritt/admin/linting/student_files/testing.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+/Users/stevemerritt/admin/linting/student_files/testing.cpp:1:  Streams are highly discouraged.  [readability/streams] [3]
+/Users/stevemerritt/admin/linting/student_files/testing.cpp:2:  Do not use namespace using-directives.  Use using-declarations instead.  [build/namespaces] [5]
+/Users/stevemerritt/admin/linting/student_files/testing.cpp:4:  Extra space before ( in function call  [whitespace/parens] [4]
+Done processing /Users/stevemerritt/admin/linting/student_files/testing.cpp
+Total errors found: 4
